@@ -1,6 +1,7 @@
 data(iris)
 names(iris)
 
+
 ##examine data distribution
 
 hist(iris$Sepal.Length) # distribution of a varaibles
